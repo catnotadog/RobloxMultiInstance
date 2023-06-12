@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobloxMultiInstance", "RobloxMultiInstance\RobloxMultiInstance.csproj", "{01BF2407-D162-40F7-B091-F1F6594FB4AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01BF2407-D162-40F7-B091-F1F6594FB4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BF2407-D162-40F7-B091-F1F6594FB4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BF2407-D162-40F7-B091-F1F6594FB4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BF2407-D162-40F7-B091-F1F6594FB4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CEBE63F-12C2-4BC8-BFDE-28534A606624}
+	EndGlobalSection
+EndGlobal
